@@ -4,7 +4,7 @@
 - I am particularly interested in accelerating agent deployment, ensuring safety alignment, and simulating multi-agent systems.
 - Feel free to contact me
 
-我现在是上海人工智能实验室的实习生，同时也是大连理工大学的博士生。我的研究方向主要集中在智能体领域，包括文本智能体、多模态智能体和多智能体系统。我对智能体的部署加速、安全对齐以及多智能体模拟非常感兴趣，欢迎合作交流。
+我现在是上海人工智能实验室的实习生，大连理工大学的博士生。我的研究方向主要集中在智能体领域，包括文本智能体、多模态智能体和多智能体系统。我对智能体的部署加速、安全对齐以及多智能体模拟非常感兴趣，欢迎合作交流。
 
 <!--
 **zhangzaibin/zhangzaibin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
