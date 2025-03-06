@@ -1,22 +1,6 @@
-## Hi there 👋
-- I am currently an intern at the Shanghai AI Laboratory and a PhD student at Dalian University of Technology.
-- My research primarily focuses on **agents**, including LLM-based agents, multimodal agents, and multi-agent systems.
-- I am particularly interested in accelerating agent deployment, ensuring safety alignment, and simulating multi-agent systems.
-- Feel free to contact me.
+Hi there 👋
+	•	I am a PhD student at Dalian University of Technology.
+	•	My research primarily focuses on multi-agent systems, agent safety, and reinforcement learning.
+	•	Feel free to contact me. Email: dlutzzb@gmail.com
 
-我现在是上海人工智能实验室实习生，大连理工大学博士生。我的研究方向主要集中在智能体领域，包括文本智能体、多模态智能体和多智能体系统。我对智能体的部署加速、安全对齐以及多智能体模拟非常感兴趣，欢迎合作交流。
-
-<!--
-**zhangzaibin/zhangzaibin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我是一名大连理工大学的博士生，研究方向主要集中在多智能体系统和强化学习。欢迎合作交流。
