@@ -4,9 +4,9 @@ Hi there 👋
 - I also work closely with my excellent friends [**Zhenfei Yin**](https://yinzhenfei.github.io/), [**Guohao Li**](https://ghli.org/), [**Yiran Qin**](https://iranqin.github.io/), [**Enshen Zhou**](https://zhoues.github.io/) and [**Zhelun Shi**](https://scholar.google.com/citations?user=EDLcoVkAAAAJ&hl=zh-CN).
 - My research primarily focuses on **Multi-agent Systems**, **Multi-modal Agents**, **Agent Safety**, and **Embodied AI**.
 
-🚀 I’m honored to have received the **Outstanding Paper Award at ACL 2024**.
+🚀 For the first time, I identified and analyzed the security issues of multi-agent systems from the interdisciplinary perspective of social psychology and AI. The paper **Psysafe**[https://arxiv.org/abs/2401.11880] received the **Outstanding Paper Award at ACL 2024**.
 
-🌍 I led the development of the **OASIS Social Simulation Project**, which has received **over 1.5k stars on GitHub**, and is serving as **a strong foundation for many research works and practical applications around the world**.
+🌍 I lead the development of the [**OASIS Social Simulation Project**](https://github.com/camel-ai/oasis), which has received **over 1.8k stars on GitHub**, and is serving as **a strong foundation for many research works and practical applications around the world**.
 
 I’m deeply passionate about agents – from the theoretical underpinnings to their real-world deployment.
 Always open to collaborations and discussions. Feel free to reach out!
