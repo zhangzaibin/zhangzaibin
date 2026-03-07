@@ -5,7 +5,7 @@ Hi there 👋
 
 🚀 For the first time, I identified and analyzed the security issues of multi-agent systems from the interdisciplinary perspective of social psychology and AI. The paper [**Psysafe**](https://arxiv.org/abs/2401.11880) won the **Outstanding Paper Award at ACL 2024**.
 
-🌍 I lead the development of the [**OASIS Social Simulation Project**](https://github.com/camel-ai/oasis), which has received **over 2k stars on GitHub**, and is serving as **a strong foundation for many research works and practical applications around the world**.
+🌍 I lead the development of the [**OASIS Social Simulation Project**](https://github.com/camel-ai/oasis), which has received **over 2.5k stars on GitHub**, and is serving as **a strong foundation for many research works and practical applications around the world**.
 
 I’m deeply passionate about agents – from the theoretical underpinnings to their real-world deployment.
 Always open to collaborations and discussions. Feel free to reach out!
