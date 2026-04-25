@@ -12,7 +12,7 @@ Hi there 👋
 
 🚀 For the first time, I identified and analyzed the security issues of multi-agent systems from the interdisciplinary perspective of social psychology and AI. The paper [**PsySafe**](https://aclanthology.org/2024.acl-long.812/) won the **Outstanding Paper Award at ACL 2024**.
 
-🌍 I lead the development of the [**OASIS Social Simulation Project**](https://github.com/camel-ai/oasis), which has received **over 4k ⭐stars on GitHub**, and is serving as **a strong foundation for many research works and practical applications around the world**.
+🌍 I lead the development of the [**OASIS**](https://github.com/camel-ai/oasis), which has received **over 4k ⭐stars on GitHub**, and is serving as **a strong foundation for many agents research works and applications around the world**.
 
 😃 I lead the [**SPAgent**](https://github.com/zhangzaibin/spagent), which is a foundation agent for perception (with 15+ 2D, 3D, and video generation tools), reasoning ([**Think3D**](https://arxiv.org/abs/2601.13029) enabling agents to interact with 3D space), and interaction (VLA model coming soon 😃) with the physical world.
 
