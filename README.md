@@ -3,11 +3,6 @@
 </p>
 
 
-<p align="center">
-  <b>Leading open-source agent systems with 4.5k+ GitHub stars</b><br>
-  across social simulation, spatial intelligence, and embodied AI.
-</p>
-
 Hi there 👋
 
 
@@ -15,7 +10,7 @@ Hi there 👋
 - I am also a visiting PhD student at **University of Oxford** supervised by professor [**Philip Torr**](https://eng.ox.ac.uk/people/philip-torr).
 - My research primarily focuses on **Multi-agent Systems**, **Multi-modal Agents**, **Agent Safety**, and **Embodied AI**.
 
-🚀 For the first time, I identified and analyzed the security issues of multi-agent systems from the interdisciplinary perspective of social psychology and AI. The paper [**PsySafe**]([https://arxiv.org/abs/2401.11880](https://aclanthology.org/2024.acl-long.812/)) won the **Outstanding Paper Award at ACL 2024**.
+🚀 For the first time, I identified and analyzed the security issues of multi-agent systems from the interdisciplinary perspective of social psychology and AI. The paper [**PsySafe**](https://aclanthology.org/2024.acl-long.812/) won the **Outstanding Paper Award at ACL 2024**.
 
 🌍 I lead the development of the [**OASIS Social Simulation Project**](https://github.com/camel-ai/oasis), which has received **over 4k ⭐stars on GitHub**, and is serving as **a strong foundation for many research works and practical applications around the world**.
 
