@@ -1,4 +1,16 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Open--source%20Agent%20Systems-4.5k%2B%20GitHub%20Stars-gold?style=for-the-badge&logo=github" />
+</p>
+
+
+<p align="center">
+  <b>Leading open-source agent systems with 4.5k+ GitHub stars</b><br>
+  across social simulation, spatial intelligence, and embodied AI.
+</p>
+
 Hi there 👋
+
+
 - I am a PhD student at **Dalian University of Technology** supervised by professor [**Lijun Wang**](https://scholar.google.com/citations?user=EfTwkXMolscC&hl=en), [**Yifan Wang**](https://scholar.google.com/citations?user=j1XFhSoAAAAJ&hl=zh-CN), and [**Huchuan Lu**](https://scholar.google.com/citations?user=D3nE0agAAAAJ&hl=en).
 - I am also a visiting PhD student at **University of Oxford** supervised by professor [**Philip Torr**](https://eng.ox.ac.uk/people/philip-torr).
 - My research primarily focuses on **Multi-agent Systems**, **Multi-modal Agents**, **Agent Safety**, and **Embodied AI**.
