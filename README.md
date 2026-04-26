@@ -10,7 +10,7 @@ Hi there 👋
 - I am also a visiting PhD student at **University of Oxford** supervised by professor [**Philip Torr**](https://eng.ox.ac.uk/people/philip-torr).
 - My research primarily focuses on **Multi-agent Systems**, **Multi-modal Agents**, **Agent Safety**, and **Embodied AI**.
 
-🚀 For the first time, I analyzed the security issues of multi-agent systems from the interdisciplinary perspective of social psychology and AI. The paper [**PsySafe**](https://aclanthology.org/2024.acl-long.812/) won the [**Outstanding Paper Award at ACL 2024**](https://2024.aclweb.org/program/best_papers/).
+🚀 For the first time, I analyzed the security issues of multi-agent systems from the interdisciplinary perspective of social psychology and AI. The paper [**PsySafe**](https://aclanthology.org/2024.acl-long.812/) won the **Outstanding Paper Award at ACL 2024**.
 
 🌍 I lead the the [**OASIS**](https://github.com/camel-ai/oasis), which is a large-scale multi-agent framework targeted on simulation. OAIS has received **over 4.4k ⭐stars on GitHub**, and is serving as **a strong foundation for many research works and applications around the world**.
 
