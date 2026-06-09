@@ -2,7 +2,7 @@ Hi there. I am Zaibin 👋
 
 
 - I am a PhD student at **Dalian University of Technology** supervised by professor [**Lijun Wang**](https://scholar.google.com/citations?user=EfTwkXMolscC&hl=en), [**Yifan Wang**](https://scholar.google.com/citations?user=j1XFhSoAAAAJ&hl=zh-CN), and [**Huchuan Lu**](https://scholar.google.com/citations?user=D3nE0agAAAAJ&hl=en).
-- I am also a visiting PhD student at **University of Oxford** supervised by professor [**Philip Torr**](https://eng.ox.ac.uk/people/philip-torr).
+- I am also a visiting PhD student at **Oxford** supervised by professor [**Philip Torr**](https://eng.ox.ac.uk/people/philip-torr).
 - My research primarily focuses on **Multi-agent Systems**, **Multi-modal Agents**, **Agent Safety**, and **Embodied AI**.
 
 🚀 For the first time, I analyzed the security issues of multi-agent systems from the interdisciplinary perspective of social psychology and AI. The paper [**PsySafe**](https://aclanthology.org/2024.acl-long.812/) won the **Outstanding Paper Award at ACL 2024**.
